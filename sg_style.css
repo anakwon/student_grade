@@ -1,0 +1,31 @@
+.student_container {
+    aborder: 1px solid black;
+    font-size: 23px;
+    color: #2C3539;
+    amargin: 10px;
+    position: relative;
+}
+
+.student_container span:nth-child(2) {
+    position: absolute;
+    float: left;
+    left: 158px;
+}
+
+.student_container span:nth-child(3) {
+    position: absolute;
+    float: left;
+    left: 315px;;
+}
+
+.divide_bar {
+    width: 50%;
+    border: 3px solid black;
+}
+
+#average_element {
+    position: relative;
+    margin-left: 300px;  
+    font-size: 20px;
+    
+}
